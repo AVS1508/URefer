@@ -1,4 +1,4 @@
-# COMPSCI 320 Fall 2021 - Job Referral Project - Team Aki #
+# URefer by Team Aki - COMPSCI 320 Fall 2021 #
 
 ## Features/Functionalities ##
 
