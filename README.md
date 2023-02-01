@@ -1,35 +1,36 @@
-# COMPSCI 320 Fall 2021 - Job Referral Project - Team Aki
+# COMPSCI 320 Fall 2021 - Job Referral Project - Team Aki #
 
-## Features/Functionalities
+## Features/Functionalities ##
 
-| Feature               | Core Functionality?   | Description                           |
+| Feature               | Core Functionality?   | Status                                |
 |-----------------------|-----------------------|---------------------------------------|
-| Login                 | **Yes**               | Completed                             |
-| User Storage/Roles    | **Yes**               | Completed                             |
-| Dashboard             | **Yes**               | Completed                             |
-| Job Database          | **Yes**               | Completed                             |
-| Referral System       | **Yes**               | Completed                             |
-| API                   | **Yes**               | Completed                             |
-| User Interface        | **Yes**               | Completed                             |
-| Notification/Mailbox  | No                    | Completed                             |
-| File Upload/Download  | No                    | Completed                             |
-| Search/Filter         | No                    | Completed                             |
-| Skill Filter          | No                    | Completed                             |
-| ELO score system      | No                    | InCompleted                           |
-| Wireframe/Mockup      | No                    | Completed                             |
+| Login                 | **Yes**               | [x] **Completed**                     |
+| User Storage/Roles    | **Yes**               | [x] **Completed**                     |
+| Dashboard             | **Yes**               | [x] **Completed**                     |
+| Job Database          | **Yes**               | [x] **Completed**                     |
+| Referral System       | **Yes**               | [x] **Completed**                     |
+| API                   | **Yes**               | [x] **Completed**                     |
+| User Interface        | **Yes**               | [x] **Completed**                     |
+| Notification/Mailbox  | No                    | [x] **Completed**                     |
+| File Upload/Download  | No                    | [x] **Completed**                     |
+| Search/Filter         | No                    | [x] **Completed**                     |
+| Skill Filter          | No                    | [x] **Completed**                     |
+| ELO score system      | No                    | [ ] Incomplete                        |
+| Wireframe/Mockup      | No                    | [x] **Completed**                     |
 
-## Technology Stack
+## Technology Stack ##
 
 - **Frontend:** ReactJS with vanilla HTML + CSS
 - **Backend:** NestJS (JavaScript framework for building scalable, server-side rendered Node.js application, offering built-in Express support as an HTTP server framework)
 - **Database:** MySQL Database Hosted by AWS RDB
-## Team Members
 
-### Project Manager
+## Team Members ##
+
+### Project Manager ###
 
 - Thanh Phan (GitHub: ) (Email: tcphan@umass.edu)
 
-### Software Engineers
+### Software Engineers ###
 
 - Adira Cohen (GitHub: @adiracohen) (Email: adiracohen@umass.edu)
 - Aditya Vikram Singh (GitHub: @AVS1508) (Email: avsingh@umass.edu)
